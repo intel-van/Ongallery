@@ -529,6 +529,18 @@
   <string name="cd_hf_import_from_url_button" translatable="true" description="Accessibility description for the top-right plus button on the Hugging Face Exploration screen that opens the URL import dialog. [CHAR_LIMIT=40]">Import from Hugging Face URL</string>
   <string name="cd_clear_search_button" translatable="true" description="Accessibility description for the clear search query button. [CHAR_LIMIT=20]">Clear search</string>
 
+  <!-- Strings for chat export feature -->
+  <!-- Button label for exporting chat conversations. -->
+  <string name="export_chat" translatable="false">Export</string>
+  <!-- Dialog message asking user to choose export format. -->
+  <string name="export_chat_message" translatable="false">Choose export format</string>
+  <!-- Button label for JSON export format. -->
+  <string name="export_format_json" translatable="false">Export as JSON</string>
+  <!-- Button label for Markdown export format. -->
+  <string name="export_format_markdown" translatable="false">Export as Markdown</string>
+  <!-- Button label for plain text export format. -->
+  <string name="export_format_text" translatable="false">Export as Text</string>
+
   <!-- The following entries are for accessibility -->
 
   <!-- Content description spoken when the "add" icon is focused. -->
