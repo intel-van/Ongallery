@@ -83,3 +83,6 @@ object AgentSkillsURLs {
   const val REPOSITORY = "https://github.com/google-ai-edge/gallery/tree/main/skills"
   const val DISCUSSIONS = "https://github.com/google-ai-edge/gallery/discussions/categories/skills"
 }
+
+// Bump to trigger CI build with upload artifact step.
+const val CI_BUMP_MARKER = 2
